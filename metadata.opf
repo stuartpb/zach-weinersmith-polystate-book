@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">c455bc5d-178f-40cf-8bc0-4038729cf88b</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c455bc5d-178f-40cf-8bc0-4038729cf88b</dc:identifier>
+        <dc:title>Polystate: A Thought Experiment in Distributed Government</dc:title>
+        <dc:creator opf:file-as="Weinersmith, Zach" opf:role="aut">Weinersmith, Zach</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.26.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-02-23T08:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{}" name="calibre:author_link_map"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
